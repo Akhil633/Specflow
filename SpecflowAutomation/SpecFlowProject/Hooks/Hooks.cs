@@ -60,14 +60,14 @@ namespace SpecFlowProject.Hooks
             Console.WriteLine("Running before scenario...");
             
            // command to run headless chrome
-             ChromeOptions options = new ChromeOptions(); 
+           /*  ChromeOptions options = new ChromeOptions(); 
             options.AddArgument("--headless");
             IWebDriver driver = new ChromeDriver(options);
-           
+           */
 
-         //   IWebDriver driver = new ChromeDriver();
-
+            IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
+
             _container.RegisterInstanceAs<IWebDriver>(driver);
             _scenario = _feature.CreateNode<Scenario>(scenarioContext.ScenarioInfo.Title);
         }

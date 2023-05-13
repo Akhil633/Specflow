@@ -10766,11 +10766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kgakh\\SpecflowAutomation\\SpecFlowProject\\SpecFlowProject.csproj",
+      "projectUniqueName": "C:\\Users\\kgakh\\Github\\SpecflowAutomation\\SpecFlowProject\\SpecFlowProject.csproj",
       "projectName": "SpecFlowProject",
-      "projectPath": "C:\\Users\\kgakh\\SpecflowAutomation\\SpecFlowProject\\SpecFlowProject.csproj",
+      "projectPath": "C:\\Users\\kgakh\\Github\\SpecflowAutomation\\SpecFlowProject\\SpecFlowProject.csproj",
       "packagesPath": "C:\\Users\\kgakh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kgakh\\SpecflowAutomation\\SpecFlowProject\\obj\\",
+      "outputPath": "C:\\Users\\kgakh\\Github\\SpecflowAutomation\\SpecFlowProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

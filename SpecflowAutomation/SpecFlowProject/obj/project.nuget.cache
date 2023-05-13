@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lzzLDyYXTxT1IsQgOzs2hyjPAIXGqqKqQPJ7s5fKzz/WjDX6F7hJJ4sa0aX8sokKtNLcIp0U0P4LzuCPN2T0fA==",
+  "dgSpecHash": "G5B9dS/xWBPKqOuK3cDs1cUAKGkcvshaDIE4L1qPu911AvQJpU3R9CY+d5egI0SZqQ6D+B/gsKCxTuUhIcNvow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kgakh\\SpecflowAutomation\\SpecFlowProject\\SpecFlowProject.csproj",
+  "projectFilePath": "C:\\Users\\kgakh\\Github\\SpecflowAutomation\\SpecFlowProject\\SpecFlowProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kgakh\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\kgakh\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",

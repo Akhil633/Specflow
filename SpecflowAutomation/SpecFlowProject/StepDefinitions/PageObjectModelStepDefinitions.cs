@@ -48,7 +48,7 @@ namespace SpecFlowProject.StepDefinitions
         [Then(@"Verify title of the page")]
         public void ThenVerifyTitleOfThePage()
         {
-            Assert.AreEqual("Testers Talk - YouTubes", objChannelPage.getTitle());
+            Assert.AreEqual("Testers Talk - YouTube", objChannelPage.getTitle());
         }
 
 
